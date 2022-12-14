@@ -348,7 +348,7 @@ border-bottom: 1px solid;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(../images/star.svg);
+    background-image: url(../images/Star.svg);
     transition: transform .3s;
 }
 
