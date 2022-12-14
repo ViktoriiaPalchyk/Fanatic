@@ -235,6 +235,11 @@ border-bottom: 1px solid;
     border: none;
     cursor: pointer;
     background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    padding-top: 25px;
 }
 
 .popup-btn span{
